@@ -7,3 +7,4 @@ Añado este parrafo para hacer un commit nuevo.
 
 La he medio liado y parece ser que no se guardo o no hice un commit en la rama nueva que cree que cosa mas rara.
 Ahi va  el commit que tenia que hacer en la nueva rama
+Nuevoparrafo para que mi compañero practique rebase
